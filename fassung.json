@@ -1,15 +1,16 @@
 {
  "kurs": "iq1",
  "titel": "Informatik Q1",
- "nr": 2,
+ "nr": 3,
  "datum": "2026-11-16",
  "aenderungen": [
-  "Die Kennwörter der Lösungen sind neu und bestehen aus vier Wörtern. Wer eine Lösung schon geöffnet hatte, gibt das neue Kennwort einmal ein.",
-  "In jedem Thema steht oben „Mehr Platz“: Die Kopfleiste klappt ein, Folien, Erklärung und Übung bekommen den ganzen Bildschirm. „☰ Menü“ holt sie zurück.",
-  "Das Fenster „Mein Stand“ (Zahnrad) bleibt nach Enter ein einziges Fenster; Enter im Namensfeld speichert und schließt.",
-  "Der Lernraum findet neue Fassungen selbst: Kursseite ganz unten, „Nach neuer Fassung suchen“."
+  "Ein Kennwort öffnet alle Lösungen bis zu seinem Thema: Mit dem Kennwort von Thema 10 sind die Lösungen von Thema 1 bis 10 offen.",
+  "Am Kartentisch liegen die zwei gewählten Karten auf einem Vergleichstisch; er zeigt, welche die höhere Wertung hat. Karten gleiten sichtbar an ihren Platz, „zurücklegen“ legt sie wieder hin.",
+  "Die Großansicht endet mit „✕ Großansicht beenden“ oben rechts.",
+  "Eine neue Fassung lässt sich auch über das Zahnrad hereinnehmen: Der Lernraum erkennt die Datei und spielt sie auf der Kursseite ein.",
+  "In „Bubblesort“ und „Binäre Suche“ stehen die Beispiele des Vortrags als Methoden einer Klasse; in „Sortieren“ haben die Paare Namen."
  ],
  "zip": "lernraum_iq1.zip",
- "sha256": "cb4c2a5650b3b9c65f110873ce1e443a010386c73a92feec8e147532e8b2729d",
- "groesse": 5036341
+ "sha256": "226cba524c1fe05808e61302228bd3c2a0ff211745e0df8e03163a74b9e3395a",
+ "groesse": 5047528
 }
