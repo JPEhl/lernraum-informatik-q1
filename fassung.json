@@ -1,16 +1,12 @@
 {
  "kurs": "iq1",
  "titel": "Informatik Q1",
- "nr": 3,
+ "nr": 4,
  "datum": "2026-11-16",
  "aenderungen": [
-  "Ein Kennwort öffnet alle Lösungen bis zu seinem Thema: Mit dem Kennwort von Thema 10 sind die Lösungen von Thema 1 bis 10 offen.",
-  "Am Kartentisch liegen die zwei gewählten Karten auf einem Vergleichstisch; er zeigt, welche die höhere Wertung hat. Karten gleiten sichtbar an ihren Platz, „zurücklegen“ legt sie wieder hin.",
-  "Die Großansicht endet mit „✕ Großansicht beenden“ oben rechts.",
-  "Eine neue Fassung lässt sich auch über das Zahnrad hereinnehmen: Der Lernraum erkennt die Datei und spielt sie auf der Kursseite ein.",
-  "In „Bubblesort“ und „Binäre Suche“ stehen die Beispiele des Vortrags als Methoden einer Klasse; in „Sortieren“ haben die Paare Namen."
+  "Neu im Zahnrad: „Vim-Tasten im Editor“. Wer Vim oder Neovim kennt, schaltet sie dort ein – der Editor zeigt dann unten die Betriebsart (NORMAL, INSERT). Alle anderen merken davon nichts."
  ],
  "zip": "lernraum_iq1.zip",
- "sha256": "226cba524c1fe05808e61302228bd3c2a0ff211745e0df8e03163a74b9e3395a",
- "groesse": 5047528
+ "sha256": "fb6bae291283ac46288926df2bea4faddd8563c93e0ef2578d95d890ccb64645",
+ "groesse": 5091942
 }
