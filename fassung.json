@@ -1,12 +1,16 @@
 {
  "kurs": "iq1",
  "titel": "Informatik Q1",
- "nr": 4,
- "datum": "2026-11-16",
+ "nr": 5,
+ "datum": "2026-11-17",
  "aenderungen": [
-  "Neu im Zahnrad: „Vim-Tasten im Editor“. Wer Vim oder Neovim kennt, schaltet sie dort ein – der Editor zeigt dann unten die Betriebsart (NORMAL, INSERT). Alle anderen merken davon nichts."
+  "Die Themen von Teil I sind überarbeitet: Jedes hat eine neue Aufgabe „Wie in der Klausur“, die Hilfen sind klarer, und einige Aufgaben sind neu oder haben eine neue Nummer.",
+  "In „Suchen und Entfernen“ baut ihr jetzt auch eine Teilliste, im Vortrag und in einer eigenen Pflichtaufgabe.",
+  "In der Sicherung von Teil I zeichnet ihr das Klassendiagramm von Hand auf Papier; die Texte schreibt ihr weiter in die Klausurfelder.",
+  "Werkstatt Karten: Die Karten lassen sich jetzt auch ziehen – auf den Vergleichstisch und zurück in die Reihe. Klicken und die Knöpfe gehen weiter wie bisher.",
+  "Behoben: Im Vortrag von „Kapselung: Getter und Setter“ brach der Film „Ein anderer Bauplan“ beim ersten Ausführen ab."
  ],
  "zip": "lernraum_iq1.zip",
- "sha256": "fb6bae291283ac46288926df2bea4faddd8563c93e0ef2578d95d890ccb64645",
- "groesse": 5091942
+ "sha256": "58b92967550376cc76ec833d1e322ab96fdf54ab6fbed20a48d093d77a2a0e48",
+ "groesse": 5139899
 }
